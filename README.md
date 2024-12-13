@@ -10,13 +10,15 @@ Data derived from:
 
 1. Dakshina
     1. [Romanized](https://huggingface.co/datasets/vrclc/Dakshina-romanized-ml) - 186 thousand  word transliteration pairs
-    2. [Lexicons] (https://huggingface.co/datasets/vrclc/dakshina-lexicons-ml) - 58.4 thousand lexicon entries
+    2. [Lexicons](https://huggingface.co/datasets/vrclc/dakshina-lexicons-ml) - 58.4 thousand lexicon entries
 2. [Aksharantar](https://huggingface.co/datasets/vrclc/Aksharantar-ml) - 4.3 million word transliteration pairs
 
 
 ## RESULT
 
 We present the evaluation scores averaged over the two test datsets shared by the task organizers.
+
+The detailed report on the transliteration output on the test datsets can be viewd at [VRCLC Huggingface Datasets](https://huggingface.co/datasets/vrclc/IndoNLP-Transliteration-ml).
 
 
 | **Dataset**   | **CER (%)** | **WER (%)** | **BLEU (%)** |
