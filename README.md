@@ -42,7 +42,7 @@ The detailed report on the transliteration output on the test datsets can be vie
 
 ## DEMO
 
-We have created a Demo of our model at Huggigface Spaces. https://huggingface.co/spaces/vrclc/en-ml-transliteration 
+We have created a Demo of our model at Huggingface Spaces. https://huggingface.co/spaces/vrclc/en-ml-transliteration 
 
 
 ![Demo of VRCLC Transliteration Model](Demo.png "Demo of VRCLC Transliteration Model")
