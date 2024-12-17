@@ -13,6 +13,10 @@ Data derived from:
     2. [Lexicons](https://huggingface.co/datasets/vrclc/dakshina-lexicons-ml) - 58.4 thousand lexicon entries
 2. [Aksharantar](https://huggingface.co/datasets/vrclc/Aksharantar-ml) - 4.3 million word transliteration pairs
 
+## MODEL
+
+The trained model is available at: https://huggingface.co/vrclc/transliteration 
+
 
 ## RESULT
 
@@ -36,4 +40,9 @@ The detailed report on the transliteration output on the test datsets can be vie
 
 ![Distribition of Evaluation Scores on Test Set-2](test-2.png "Distribition of Evaluation Scores on Test Set-2")
 
+## DEMO
 
+We have created a Demo of our model at Huggigface Spaces. https://huggingface.co/spaces/vrclc/en-ml-transliteration 
+
+
+![Demo of VRCLC Transliteration Model](Demo.png "Demo of VRCLC Transliteration Model")
